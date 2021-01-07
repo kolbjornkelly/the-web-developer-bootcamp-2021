@@ -25,3 +25,7 @@ The task is to make a header with a sowman entity and a superscripted trademark 
 ### Exercise 5 - Tables
 
 Given the data, the task is to format a table using the elements table, thead, tbody, tr, th and td.
+
+### Exercise 6 - Forms
+
+The task is to make a login-like page consisting of username and password inputs with placeholder texts, and a register-button.
