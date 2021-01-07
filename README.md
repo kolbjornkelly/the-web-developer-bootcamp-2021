@@ -22,3 +22,6 @@ The task is simply to create a link and an image.
 
 The task is to make a header with a sowman entity and a superscripted trademark entity.
 
+### Exercise 5 - Tables
+
+Given the data, the task is to format a table using the elements table, thead, tbody, tr, th and td.
