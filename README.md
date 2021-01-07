@@ -18,3 +18,7 @@ Given a plain-text list, the task is to make a list identical to the picture.
 
 The task is simply to create a link and an image. 
 
+### Exercise 4 - Entities & Semantics
+
+The task is to make a header with a sowman entity and a superscripted trademark entity.
+
