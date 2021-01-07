@@ -14,3 +14,7 @@ The task is, by using HTML, formating the text to match the given picture.
 
 Given a plain-text list, the task is to make a list identical to the picture.
 
+### Exercise 3 - Links & Images
+
+The task is simply to create a link and an image. 
+
