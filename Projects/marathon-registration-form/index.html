@@ -5,5 +5,89 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Marathon Registration Form</title>
   </head>
-  <body></body>
+  <body>
+    <h1>Race Registration</h1>
+
+    <form action="/random">
+      <p>
+        <label for="firstName">First Name:</label>
+        <input
+          type="text"
+          id="firstName"
+          name="firstName"
+          placeholder="First Name"
+          required
+        />
+
+        <label for="lastName">First Name:</label>
+        <input
+          type="text"
+          id="lastName"
+          name="lastName"
+          placeholder="Last Name"
+          required
+        />
+      </p>
+
+      <p>
+        <h2>Select a Race</h2>
+      </p>
+
+      <p>
+        <div>
+          <input type="radio" id="10k" name="drone" value="10k"
+                 checked>
+          <label for="10k">5k</label>
+        </div>
+        
+        <div>
+          <input type="radio" id="halfMarathon" name="drone" value="halfMarathon">
+          <label for="halfMarathon">Half Marathon</label>
+        </div>
+        
+        <div>
+          <input type="radio" id="fullMarathon" name="drone" value="fullMarathon">
+          <label for="fullMarathon">Full Marathon</label>
+        </div>
+      </p>
+
+      <p>
+        <label for="email">Email:</label>
+        <input 
+          type="email" 
+          name="email" 
+          id="email" 
+          placeholder="email" 
+          required
+          />
+
+        <label for="password">Password:</label>
+        <input
+          id="password"
+          type="password"
+          placeholder="password"
+          name="password"
+          minlength="6"
+          maxlength="128"
+          required
+        />
+      </p>
+
+      <p>
+        <label for="age-select">Select Age Group:</label>
+        <select name="ages" id="age-select">
+            <option value="">--Please choose an option--</option>
+            <option value="15-18">15-18</option>
+            <option value="19-35">19-35</option>
+            <option value="36-45">36-45</option>
+            <option value="46-60">46-60</option>
+            <option value="60+">60+</option>
+        </select>
+      </p>
+
+      <p>
+        <button>Register</button>
+      </p>
+    </form>
+  </body>
 </html>
