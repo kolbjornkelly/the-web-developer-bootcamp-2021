@@ -33,3 +33,10 @@ The task is to make a login-like page consisting of username and password inputs
 ### Marathon Registration Project
 
 The task is to make a registration form for a fictive fun run. Should include proper use of input types, labels, placeholders, etc...
+
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
