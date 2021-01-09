@@ -1,7 +1,7 @@
 # the-web-developer-bootcamp-2021
 
 Coding exercises from "The Web Developer Bootcamp 2021" at udemy.com. 
-Some of this code might be built on templates from the courses recourses. From the exercise descriptions it should be clear as to what code this concerns.
+Some of this code might be built on templates from the courses recourses. From the exercise descriptions it should be clear as to what code this concerns. The course is divided into topic-related modules. Each module contains several shorter exercises, and some longer projects. 
 
 <details>
 <summary>HTML</summary>
