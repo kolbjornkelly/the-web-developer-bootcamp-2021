@@ -31,3 +31,7 @@ Given the data, the task is to format a table using the elements table, thead, t
 ### Exercise 6 - Forms
 
 The task is to make a login-like page consisting of username and password inputs with placeholder texts, and a register-button.
+
+### Marathon Registration Project
+
+The task is to make a registration form for a fictive fun run. Should include proper use of input types, labels, placeholders, etc...
