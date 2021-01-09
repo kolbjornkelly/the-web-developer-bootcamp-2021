@@ -1,7 +1,5 @@
 # the-web-developer-bootcamp-2021
 
-# the-web-developer-bootcamp-2021
-
 Coding exercises from "The Web Developer Bootcamp 2021" at udemy.com. 
 Some of this code might be built on templates from the courses recourses. From the exercise descriptions it should be clear as to what code this concerns.
 
