@@ -3,7 +3,9 @@
 Coding exercises from "The Web Developer Bootcamp 2021" at udemy.com. 
 Some of this code might be built on templates from the courses recourses. From the exercise descriptions it should be clear as to what code this concerns.
 
-## HTML
+<details>
+<summary>HTML</summary>
+<br>
 
 ### Exercise 1 - Intro
 
@@ -34,9 +36,4 @@ The task is to make a login-like page consisting of username and password inputs
 
 The task is to make a registration form for a fictive fun run. Should include proper use of input types, labels, placeholders, etc...
 
-
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
 </details>
