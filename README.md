@@ -7,6 +7,10 @@ Some of this code might be built on templates from the courses recourses. From t
 <summary>HTML</summary>
 <br>
 
+<details>
+<summary>ExercisesL</summary>
+<br>
+
 ### Exercise 1 - Intro
 
 Given plain-text and a picture of a website.
@@ -31,6 +35,8 @@ Given the data, the task is to format a table using the elements table, thead, t
 ### Exercise 6 - Forms
 
 The task is to make a login-like page consisting of username and password inputs with placeholder texts, and a register-button.
+
+</details>
 
 ### Marathon Registration Project
 
