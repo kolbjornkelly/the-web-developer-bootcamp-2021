@@ -49,3 +49,27 @@ Some of this code might be built on templates from the courses recourses. From t
 
 
 </details>
+
+<details>
+<summary>HTML</summary>
+<br>
+
+  <details>
+  <summary>Exercises</summary>
+  <br>
+
+  ### Exercise 7 - Intro
+  
+  Given plain-text, format the text to match a given layout.
+
+  </details>
+
+  <details>
+  <summary>Projects</summary>
+  <br>
+  
+  ### Project Placeholder
+  </details>
+
+
+</details>
