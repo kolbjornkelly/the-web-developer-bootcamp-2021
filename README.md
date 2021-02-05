@@ -84,11 +84,22 @@ Most of this code is built on templates from the course recourses. From the exer
 
   </details>
 
+</details>
+
+
+<details>
+<summary>Bootstrap</summary>
+<br>
+
   <details>
-  <summary>Projects</summary>
+  <summary>Exercises</summary>
   <br>
+
+  ### Exercise 13
   
-  ### Project Placeholder
+  Given plain-text HTML, format the code to match the given image, using bootstrap
+  
+
   </details>
 
 
