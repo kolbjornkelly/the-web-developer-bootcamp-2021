@@ -88,7 +88,7 @@ Most of this code is built on templates from the course recourses. From the exer
 
 
 <details>
-<summary>CSS</summary>
+<summary>Bootstrap</summary>
 <br>
 
   <details>
