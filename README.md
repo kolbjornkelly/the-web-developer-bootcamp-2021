@@ -95,11 +95,15 @@ Most of this code is built on templates from the course recourses. From the exer
   <summary>Exercises</summary>
   <br>
 
-  ### Exercise 13
+  ### Exercise 13 - Intro
   
-  Given plain-text HTML, format the code to match the given image, using bootstrap
+  Given plain-text HTML, format the code to match the given image, using bootstrap.
   
-
+  ### Exercise 13 - Grid Intro
+  
+  Using grid functionality, create a .html to match a the given image.
+  
+  
   </details>
 
 
