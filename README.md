@@ -1,7 +1,7 @@
 # the-web-developer-bootcamp-2021
 
 Coding exercises from "The Web Developer Bootcamp 2021" at udemy.com. 
-Some of this code might be built on templates from the courses recourses. From the exercise descriptions it should be clear as to what code this concerns. The course is divided into topic-related modules. Each module contains several shorter exercises, and some longer projects. 
+Most of this code is built on templates from the course recourses. From the exercise descriptions it should be clear as to what code this concerns. The course is divided into topic-related modules. Each module contains several short exercises, and some projects. 
 
 <details>
 <summary>HTML</summary>
@@ -45,6 +45,50 @@ Some of this code might be built on templates from the courses recourses. From t
   ### Marathon Registration Project
 
   The task is to make a registration form for a fictive fun run. Should include proper use of input types, labels, placeholders, etc...
+  </details>
+
+
+</details>
+
+<details>
+<summary>CSS</summary>
+<br>
+
+  <details>
+  <summary>Exercises</summary>
+  <br>
+
+  ### Exercise 7 - Intro
+  
+  Given plain-text, format the text to match a given layout.
+  
+  ### Exercise 8 - Hipster Logo
+  
+  Format text to match the given specification.
+  
+  ### Exercise 9 - Basic Selectors
+  
+  Using selectors, format text to match the given specification.
+  
+  ### Exercise 10 - Descendent Combinators
+  
+  Using descendent combinators, format text to match the given specification.
+  
+  ### Exercise 11 - Checkerboard
+  
+  Given a colorless checkerboard, make even squares black and odd squares red.
+  
+  ### Exercise 12 - Box Model
+  
+  Format the given .css file to match the given image.
+
+  </details>
+
+  <details>
+  <summary>Projects</summary>
+  <br>
+  
+  ### Project Placeholder
   </details>
 
 
