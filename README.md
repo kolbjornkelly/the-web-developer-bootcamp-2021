@@ -126,7 +126,17 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Define two constants
   
+  ### Exercise 17 - Strings
   
+  Create two strings.
+  
+  ### Exercise 18 - String Methods
+  
+  Use the .trim() and .toLowerCase() methods to change a string.
+  
+  ### Exercise 19 - More String Methods
+  
+  Use the .replace() and .slice() methods to alter a string.
   </details>
 
 
