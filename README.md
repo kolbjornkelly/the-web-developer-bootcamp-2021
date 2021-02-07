@@ -166,6 +166,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Change two elements in the given array.
   
+  ### Exercise 27 - Pop/Push/Shift/Unshift
+  
+  Use the functions above to alter an array.
+  
   </details>
 
 
