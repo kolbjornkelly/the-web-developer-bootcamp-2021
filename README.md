@@ -162,6 +162,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Create an array containing 6 numbers.
   
+  ### Exercise 26 - Array Access
+  
+  Change two elements in the given array.
+  
   </details>
 
 
