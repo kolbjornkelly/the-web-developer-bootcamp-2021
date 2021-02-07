@@ -108,3 +108,26 @@ Most of this code is built on templates from the course recourses. From the exer
 
 
 </details>
+
+
+<details>
+<summary>JavaScript</summary>
+<br>
+
+  <details>
+  <summary>Exercises</summary>
+  <br>
+
+  ### Exercise 15 - Variables
+  
+  Create two variables.
+  
+  ### Exercise 16 - Constants
+  
+  Define two constants
+  
+  
+  </details>
+
+
+</details>
