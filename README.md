@@ -137,6 +137,12 @@ Most of this code is built on templates from the course recourses. From the exer
   ### Exercise 19 - More String Methods
   
   Use the .replace() and .slice() methods to alter a string.
+  
+  ### Exercise 20 - String Template Literals
+  
+  Create a string dipslaying the outcome of rolling two dice.
+  
+  
   </details>
 
 
