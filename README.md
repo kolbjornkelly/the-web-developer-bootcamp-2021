@@ -158,6 +158,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Change the input value to active the given condition.
   
+  ### Exercise 25 - Arrays
+  
+  Create an array containing 6 numbers.
+  
   </details>
 
 
