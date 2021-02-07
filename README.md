@@ -142,6 +142,9 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Create a string dipslaying the outcome of rolling two dice.
   
+  ### Exercise 21 - Conditions
+  
+  Check if a number is even.
   
   </details>
 
