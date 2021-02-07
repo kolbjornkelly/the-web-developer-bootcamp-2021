@@ -150,6 +150,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Use if-else condtions to match the given set of rules.
   
+  ### Exercise 22 - Nested Conditions
+  
+  Change the input value to activate the given condition.
+  
   </details>
 
 
