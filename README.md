@@ -146,6 +146,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Check if a number is even.
   
+  ### Exercise 22 - More on Conditions
+  
+  Use if-else condtions to match the given set of rules.
+  
   </details>
 
 
