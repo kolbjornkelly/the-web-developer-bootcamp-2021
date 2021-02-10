@@ -170,6 +170,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Use the functions above to alter an array.
   
+  ### Exercise 27 - Nested Arrays
+  
+  Update a value in a nested array.
+  
   </details>
 
 
