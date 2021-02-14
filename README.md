@@ -170,9 +170,13 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Use the functions above to alter an array.
   
-  ### Exercise 27 - Nested Arrays
+  ### Exercise 28 - Nested Arrays
   
   Update a value in a nested array.
+  
+  ### Exercise 29 - Object Literals
+  
+  Create an object containing the given data.
   
   </details>
 
