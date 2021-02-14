@@ -178,6 +178,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Create an object containing the given data.
   
+  ### Exercise 30 - Object Access
+  
+  Given an object, create a string containing information from that object.
+  
   </details>
 
 
