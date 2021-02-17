@@ -182,6 +182,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Given an object, create a string containing information from that object.
   
+  ### Exercise 31 - Loops Intro
+  
+  Make a loop that prints a sentence a given number of times.
+  
   </details>
 
 
