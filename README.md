@@ -182,9 +182,13 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Given an object, create a string containing information from that object.
   
-  ### Exercise 31 - Loops Intro
+  ### Exercise 31 - For-Loops Intro
   
   Make a loop that prints a sentence a given number of times.
+  
+  ### Exercise 32 - More on For-Loops Intro
+  
+  Using a loop, print down from 25 by increments of -5.
   
   </details>
 
