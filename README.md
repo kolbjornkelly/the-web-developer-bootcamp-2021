@@ -190,9 +190,13 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Using a loop, print down from 25 by increments of -5.
   
-  ### Exercise 32 - Looping Over Arrays
+  ### Exercise 33 - Looping Over Arrays
   
   Loop through an array of strings and print every string in upper case.
+  
+  ### Exercise 34 - The For...Of-Loop
+  
+  Loop through an array of integers and print the square of each integer.
   
   
   </details>
