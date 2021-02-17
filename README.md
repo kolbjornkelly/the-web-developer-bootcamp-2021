@@ -190,6 +190,11 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Using a loop, print down from 25 by increments of -5.
   
+  ### Exercise 32 - Looping Over Arrays
+  
+  Loop through an array of strings and print every string in upper case.
+  
+  
   </details>
 
 
