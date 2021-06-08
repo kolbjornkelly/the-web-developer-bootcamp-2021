@@ -218,6 +218,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Create a function that returns 'true' if the input argument is above a threshold, and 'false' if it is not.
     
+  ### Exercise 40 - Return Last Element
+    
+  Create a function that returns the last elements of an array. If the array is empty, return 'null'.
+    
   </details>
   <details>
   <summary>Projects</summary>
