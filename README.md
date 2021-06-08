@@ -198,9 +198,13 @@ Most of this code is built on templates from the course recourses. From the exer
 
   Loop through an array of integers and print the square of each integer.
     
-  ### Exercise 35 - Heart Function 
+  ### Exercise 35 - Introduction to Functions
     
   Create a function that prints a "<3" and call it once.
+  
+  ### Exercise 36 - Introduction to arguments
+    
+  Create a function that takes in a message as an argument and prints it three times.
     
   </details>
   <details>
