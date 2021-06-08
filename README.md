@@ -206,6 +206,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Create a function that takes in a message as an argument and prints it three times.
     
+  ### Exercise 37 - Multiple Arguments
+  
+  Create a function that takes in two numbers as arguments. If both numbers are '1', print "Snake Eyes!". If not, print "Not Snake Eyes!".
+    
   </details>
   <details>
   <summary>Projects</summary>
