@@ -214,6 +214,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Create a function that returns the product of its arguments.
     
+  ### Exercise 39 - Conditional Return
+    
+  Create a function that returns 'true' if the input argument is above a threshold, and 'false' if it is not.
+    
   </details>
   <details>
   <summary>Projects</summary>
