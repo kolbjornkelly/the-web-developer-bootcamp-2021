@@ -199,7 +199,7 @@ Most of this code is built on templates from the course recourses. From the exer
     Loop through an array of integers and print the square of each integer.
     
   </details>
-
+  <details>
   <summary>Projects</summary>
   <br>
 
