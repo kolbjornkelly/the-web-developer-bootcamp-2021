@@ -202,13 +202,17 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Create a function that prints a "<3" and call it once.
   
-  ### Exercise 36 - Introduction to arguments
+  ### Exercise 36 - Introduction to Arguments
     
   Create a function that takes in a message as an argument and prints it three times.
     
   ### Exercise 37 - Multiple Arguments
   
   Create a function that takes in two numbers as arguments. If both numbers are '1', print "Snake Eyes!". If not, print "Not Snake Eyes!".
+    
+  ### Exercise 38 - Return Value
+    
+  Create a function that returns the product of its arguments.
     
   </details>
   <details>
