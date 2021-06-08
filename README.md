@@ -222,6 +222,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Create a function that returns the last elements of an array. If the array is empty, return 'null'.
     
+  ### Exercise 41 - Capitalize
+    
+  Create a function that capitilizes the first letter of the argument sentence.
+    
   </details>
   <details>
   <summary>Projects</summary>
