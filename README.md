@@ -230,6 +230,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Create a function that returns the sum of the argument array.
     
+  ### Exercise 43 - Days of the Week
+  
+  Create a function that takes a numbers as an argument. If the number is between one and seven, the function should return the corresponding day. If it is not, the function should return 'null'.
+    
   </details>
   <details>
   <summary>Projects</summary>
