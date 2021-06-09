@@ -254,6 +254,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Create an arrow function that greets the input name.
     
+  ### Exercise 49 - The Filter Method
+    
+  Write a function that returns valid usernames (less than 10 characters).
+    
   </details>
   <details>
   <summary>Projects</summary>
