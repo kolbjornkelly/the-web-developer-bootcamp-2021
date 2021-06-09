@@ -242,6 +242,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Define an object that contains two methods.
     
+  ### Exercise 46 - The Keyword 'this'
+    
+  Define an object with a count variable, and a method to increment that variable.
+    
   </details>
   <details>
   <summary>Projects</summary>
