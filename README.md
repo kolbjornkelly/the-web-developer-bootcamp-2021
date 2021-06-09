@@ -234,6 +234,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Create a function that takes a numbers as an argument. If the number is between one and seven, the function should return the corresponding day. If it is not, the function should return 'null'.
     
+  ### Exercise 44 - Function Expressions
+    
+  Create a function expression that returns the square of a number.
+    
   </details>
   <details>
   <summary>Projects</summary>
