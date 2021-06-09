@@ -238,6 +238,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Create a function expression that returns the square of a number.
     
+  ### Exercise 45 - Methods
+    
+  Define an object that contains two methods.
+    
   </details>
   <details>
   <summary>Projects</summary>
