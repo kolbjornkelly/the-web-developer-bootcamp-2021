@@ -250,6 +250,10 @@ Most of this code is built on templates from the course recourses. From the exer
   
   Create a function that uses maps to trim the elements of an array.
     
+  ### Exercise 48 - Arrow Functions
+    
+  Create an arrow function that greets the input name.
+    
   </details>
   <details>
   <summary>Projects</summary>
