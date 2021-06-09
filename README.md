@@ -258,6 +258,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Write a function that returns valid usernames (less than 10 characters).
     
+  ### Exercise 50 - Some/Every
+  
+  Write a function that returns true if all the elements of the input array are even. Return false if not.
+    
   </details>
   <details>
   <summary>Projects</summary>
