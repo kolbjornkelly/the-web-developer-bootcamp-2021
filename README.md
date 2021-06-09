@@ -246,6 +246,10 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Define an object with a count variable, and a method to increment that variable.
     
+  ### Exercise 47 - Maps
+  
+  Create a function that uses maps to trim the elements of an array.
+    
   </details>
   <details>
   <summary>Projects</summary>
