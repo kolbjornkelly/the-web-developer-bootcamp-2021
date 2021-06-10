@@ -295,6 +295,10 @@ Most of this code is built on templates from the course recourses. From the exer
   ### Exercise 53 - innerText
  
   Use innerText to change a specific word in the given HTML file.
+    
+  ### Exercise 54 - Manipulating Attributes
+    
+  Change the source link and alt text in a given HTML file.
   
 
   </details>
