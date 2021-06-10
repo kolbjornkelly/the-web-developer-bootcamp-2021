@@ -286,7 +286,11 @@ Most of this code is built on templates from the course recourses. From the exer
   
   ### Exercise 51 - getElementByID
   
-  Use getElementByID to select specific objects from the given HTML file.
+  Use getElementByID to select specific elements from the given HTML file.
+    
+  ### Exercise 52 - querySelector
+  
+  Use querySelector and querySelectorAll to select specific elements from the given HTML file.
   
 
   </details>
