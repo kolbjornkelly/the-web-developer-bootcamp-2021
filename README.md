@@ -286,7 +286,7 @@ Most of this code is built on templates from the course recourses. From the exer
   
   ### Exercise 51 - getElementByID
   
-  Use getElementByID to select the given objects.
+  Use getElementByID to select specific objects from the given HTML file.
   
 
   </details>
