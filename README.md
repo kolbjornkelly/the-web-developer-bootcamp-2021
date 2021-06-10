@@ -275,6 +275,31 @@ Most of this code is built on templates from the course recourses. From the exer
   
   
   </details>
+  
+  <details>
+<summary>DOM</summary>
+<br>
+
+  <details>
+  <summary>Exercises</summary>
+  <br>
+  
+  ### Exercise 51 - getElementByID
+  
+  Use getElementByID to select the given objects.
+  
+
+  </details>
+    
+  <details>
+  <summary>Projects</summary>
+  <br>
+
+  
+
+  </details>
+
+</details>
 
 
 </details>
