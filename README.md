@@ -311,7 +311,11 @@ Most of this code is built on templates from the course recourses. From the exer
   ### Exercise 57 - classList
 
   Use the classList property to toggle the items in a list.
+
+  ### Exercise 58 - appendChild
+
   
+  Use appendChild to append 100 buttons with text inside a container.
 
   </details>
     
