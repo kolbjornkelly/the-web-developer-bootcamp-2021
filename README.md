@@ -307,6 +307,10 @@ Most of this code is built on templates from the course recourses. From the exer
   ### Exercise 56 - Rainbow Text
     
   Give the letters of a heading the colors of the rainbow.
+
+  ### Exercise 57 - classList
+
+  Use the classList property to toggle the items in a list.
   
 
   </details>
