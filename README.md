@@ -299,6 +299,10 @@ Most of this code is built on templates from the course recourses. From the exer
   ### Exercise 54 - Manipulating Attributes
     
   Change the source link and alt text in a given HTML file.
+    
+  ### Exercise 55 - Changing Styles
+  
+  Change the styles of the given markup using only JS.
   
 
   </details>
