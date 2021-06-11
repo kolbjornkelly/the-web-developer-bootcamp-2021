@@ -303,6 +303,10 @@ Most of this code is built on templates from the course recourses. From the exer
   ### Exercise 55 - Changing Styles
   
   Change the styles of the given markup using only JS.
+    
+  ### Exercise 56 - Rainbow Text
+    
+  Give the letters of a heading the colors of the rainbow.
   
 
   </details>
