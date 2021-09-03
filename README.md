@@ -313,7 +313,6 @@ Most of this code is built on templates from the course recourses. From the exer
   Use the classList property to toggle the items in a list.
 
   ### Exercise 58 - appendChild
-
   
   Use appendChild to append 100 buttons with text inside a container.
     
@@ -321,8 +320,9 @@ Most of this code is built on templates from the course recourses. From the exer
     
   Given an HTML file, add inline event handlers to the button.
     
+  ### Exercise 60 - Event Listeners
     
-  
+  Use addEventListener to make magic happen.
 
   </details>
     
