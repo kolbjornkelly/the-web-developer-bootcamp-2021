@@ -316,6 +316,13 @@ Most of this code is built on templates from the course recourses. From the exer
 
   
   Use appendChild to append 100 buttons with text inside a container.
+    
+  ### Exercise 59 - Know Thy Enemy; inline event handlers
+    
+  Given an HTML file, add inline event handlers to the button.
+    
+    
+  
 
   </details>
     
